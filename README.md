@@ -1,2 +1,14 @@
 # hub-dy-lab
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
